@@ -1,0 +1,5 @@
+W kodzie programu jest zdefiniowana funkcja add() dodająca 2 liczby do siebie.
+Zdefiniuj 3 kolejne funkcje służące do: odejmowania (nazwa funkcji: subtract), mnożenia (multiply) oraz dzielenia (divide).
+Dla przypomnienia operatory w C:
+* mnozenie
+/ dzielenie
