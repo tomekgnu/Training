@@ -32,6 +32,7 @@ int add(int a,int b){
 // 4. Definicja funkcji mnozacej
 // 5. Definicja funkcji dzielacej
 
+// 6. Definicja funkcji wyswietlajacej wynik
 void showNumber(int n){
 	
 	printf("%d\n",n);
