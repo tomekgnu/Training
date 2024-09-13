@@ -28,6 +28,10 @@ int add(int a,int b){
 
 }
 
+int add_many(int a, int b, int c, int d, int e){
+
+}
+
 // 3. Definicja funkcji odejmujacej
 // 4. Definicja funkcji mnozacej
 // 5. Definicja funkcji dzielacej
