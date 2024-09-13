@@ -20,7 +20,7 @@ int main(void){
 }
 
 // 2. Definicja funkcji dodajacej 2 liczby
-int add(int a,int b,int c,int d,int e){
+int add(int a,int b){
 
 
 	return a + b;
