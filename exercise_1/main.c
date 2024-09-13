@@ -28,7 +28,7 @@ int add(int a,int b){
 
 }
 
-int add_many(int a, int b, int c, int d, int e){
+int add_many(int *args, int num){
 
 }
 
